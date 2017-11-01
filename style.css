@@ -1,0 +1,112 @@
+/*
+  dnomaid was here
+  https://dnomaid.co.uk
+*/
+
+body {
+  max-width: 50em;
+  margin: 0 auto;
+  background-color: #111;
+  color: #fefefe;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+h1 img {
+  vertical-align: middle;
+  width: 2em;
+  height: 2em;
+  margin-right: 10px;
+}
+
+a {
+  color: #aaa;
+  border-bottom: 1px solid #aaa;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #aaa;
+  color: #111;
+}
+
+a.blend {
+  color: #fefefe;
+  border: none;
+}
+
+a.blend:hover {
+  background: none;
+  text-decoration: underline;
+}
+
+a.yt, a.gh {
+  display: inline-block;
+  border-radius: 2px;
+  padding: 2px;
+}
+
+a.yt {
+  color: #cd201f;
+  border-bottom: none;
+}
+
+a.yt:hover {
+  color: #fefefe;
+  background: none;
+}
+
+a.gh {
+  color: #6cc644;
+  border-bottom: none;
+}
+
+a.gh:hover {
+  color: #fefefe;
+  background: none;
+}
+
+header, main, section, footer {
+  border-radius: 2px;
+}
+
+header {
+  padding: 1em;
+  background-color: #222;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  min-height: 50%;
+  padding: 1em;
+  background-color: #222;
+}
+
+main section:not(:first-of-type) {
+  margin-top: 1.5em;
+}
+
+main section:not(:last-of-type) {
+  margin-bottom: 1.5em;
+}
+
+main img {
+  max-width: 100%;
+  margin: 0 auto;
+  border-radius: 2px;
+}
+
+footer {
+  margin-top: 1em;
+  background-color: #222;
+  padding: 1em;
+}
