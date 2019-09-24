@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jaffameme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jaffasite.ga
+  * I am jaffameme (https://keybase.io/jaffameme) on keybase.
+  * I have a public key ASDgWO3FCq3AvQ_KAqfWZ78x08l_ilKKRujTJU4sxmGOJAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e058edc50aadc0bd0fca02a7d667bf31d3c97f8a528a46e8d3254e2cc6618e240a",
+      "host": "keybase.io",
+      "kid": "0120e058edc50aadc0bd0fca02a7d667bf31d3c97f8a528a46e8d3254e2cc6618e240a",
+      "uid": "056e623bca09499985a360bf08468719",
+      "username": "jaffameme"
+    },
+    "merkle_root": {
+      "ctime": 1569309542,
+      "hash": "0658ee643ba39fa9a1084da971b0217845cd0f119706fdb240ca761366ef1af9566a6264a4150f428e38b37274ec690b88d782bc07f613a5a3678a9a7bbdd551",
+      "hash_meta": "cf4e4e2a83635f0d2456d0a77cd079f256ae1cf9f3d05eadb3efe6ed05c52719",
+      "seqno": 7716401
+    },
+    "service": {
+      "entropy": "1vT2I/HqF73AQtVApPhAvGoK",
+      "hostname": "jaffasite.ga",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569309551,
+  "expire_in": 504576000,
+  "prev": "009636de63e99e7aa2829123f0df5265450dcb6238995419ad3d7c64e35bc854",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4FjtxQqtwL0PygKn1me/MdPJf4pSikbo0yVOLMZhjiQKp3BheWxvYWTESpcCB8QgAJY23mPpnnqigpEj8N9SZUUNy2I4mVQZrT18ZONbyFTEINmTsbGH5KK8eazUPHVHeMqL62pOx2HiDqNvgO+DJTaiAgHCo3NpZ8RAxxzTD7ugOcT2JZ8+xoS7ti3OSVWRmNOexKlXxTHOxEdumuo29byp8ajbnaKXqNYdFl8fI9tIfUh+FSAJR4T1BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDKYDSonq45owlsx89GI6ePjtHQnzwJT5nH9hjg8OSWeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaffameme
+
+==================================================================
