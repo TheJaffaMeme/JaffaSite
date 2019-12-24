@@ -43,31 +43,34 @@ a.blend:hover {
   text-decoration: underline;
 }
 
-a.yt, a.gh {
+a.gh, a.tw, a.kb, a.bl {
   display: inline-block;
   border-radius: 2px;
   padding: 2px;
-}
-
-a.yt {
-  color: #cd201f;
   border-bottom: none;
-}
-
-a.yt:hover {
-  color: #fefefe;
-  background: none;
 }
 
 a.gh {
   color: #6cc644;
-  border-bottom: none;
 }
 
-a.gh:hover {
+a.tw {
+  color: #1da1f2;
+}
+
+a.kb {
+  color: #ff6f21;
+}
+
+a.bl {
+  color: #aaa;
+}
+
+a.gh:hover, a.tw:hover, a.kb:hover, a.bl:hover {
   color: #fefefe;
   background: none;
 }
+
 
 header, main, section, footer {
   border-radius: 2px;
@@ -85,6 +88,7 @@ header h1 {
   padding: 0;
 }
 
+
 main {
   min-height: 50%;
   padding: 1em;
@@ -97,6 +101,24 @@ main section:not(:first-of-type) {
 
 main section:not(:last-of-type) {
   margin-bottom: 1.5em;
+}
+
+section.post {
+  margin-bottom: 1em;
+  padding: 1em;
+  background-color: #191919;
+}
+
+section.post.big {
+  font-size: 120%;
+}
+
+section.post h2, section.post h3 {
+  margin: 0;
+}
+
+section.post h2 {
+  margin-bottom: 8px;
 }
 
 main img {
